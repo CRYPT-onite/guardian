@@ -7,9 +7,9 @@ It notifies the  gaurdian whenever the dependent needs any help or in case of an
 
 # Features
  
-1.The app provides live data for humidity, body temprature and heart  rate.
-2. Notifies the  gaurdian whenever the dependent needs any help or in case of an emergency situation.
-3.It also displays the full day activity and notifies you when needed.
+1. The app provides live data for humidity, body temprature and heart  rate.
+2.  Notifies the  gaurdian whenever the dependent needs any help or in case of an emergency situation.
+3. It also displays the full day activity and notifies you when needed.
 4. ShowsLive audio and location and posture    
 
 We have used Raspberry pi and sensors for the same.
